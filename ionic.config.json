@@ -1,0 +1,15 @@
+{
+  "name": "Centro_de_Treinamento_Komatsu",
+  "app_id": "f74d5b2b",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {},
+    "cordova": {}
+  },
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
